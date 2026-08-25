@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Afthab NH 👋
+# Hi, I'm Afthab NH 
 
 ### FullStack Developer | AI/ML Engineer
 
